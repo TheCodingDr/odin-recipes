@@ -1,2 +1,2 @@
 # odin-recipes
-"Hello Odin!"
+Recipe project from HTML basics in the odin project
